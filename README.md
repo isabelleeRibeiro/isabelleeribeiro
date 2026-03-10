@@ -2,8 +2,7 @@
 
 **`Desenvolvedora web iniciante`**
 
-Me chamo Isabelle Ribeiro. Sou dev iniciante e atualmente estou concluindo o ensino médio técnico em informática para internet.  
-(Posteriormente estarei conectada no Instagram)
+Me chamo Isabelle Ribeiro. Sou dev iniciante e Técnica em informática para internet.  
 
 <p align="left">
 
