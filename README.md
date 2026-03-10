@@ -13,14 +13,7 @@ Me chamo Isabelle Ribeiro. Sou dev iniciante e atualmente estou concluindo o ens
 <a href="https://instagram.com/isabellee.code" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<a href="https://github.com/isabelleeribeiro?tab=followers">
-<img 
-alt="Seguidores"
-title="Me siga no GitHub" 
-src="https://custom-icon-badges.demolab.com/github/followers/isabelleeribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github"
-/>
-</a>
-
+ <a href = "mailto:cdev.isabellee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
