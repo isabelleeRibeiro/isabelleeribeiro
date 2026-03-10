@@ -13,11 +13,11 @@ Me chamo Isabelle Ribeiro. Sou dev iniciante e atualmente estou concluindo o ens
   <a href="https://instagram.com/isabellee.code" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href="https://github.com/isabelleribeiiro?tab=followers">
+  <a href="https://github.com/isabelleeribeiro?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/isabelleribeiiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github"
+            src="https://custom-icon-badges.demolab.com/github/followers/isabelleeribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github"
         />
     </a>
 </p>
@@ -86,14 +86,14 @@ Me chamo Isabelle Ribeiro. Sou dev iniciante e atualmente estou concluindo o ens
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=isabelleribeiiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=isabelleeribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleribeiiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelleeribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 </p>
