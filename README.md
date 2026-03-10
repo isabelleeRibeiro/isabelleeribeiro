@@ -2,7 +2,7 @@
 
 **`Desenvolvedora web iniciante`**
 
-Me chamo Isabelle Ribeiro. Sou dev iniciante e Técnica em informática para internet.  
+Me chamo Isabelle Ribeiro. Sou desenvolvedora web iniciante e técnica em Informática para Internet.
 
 <p align="left">
 
