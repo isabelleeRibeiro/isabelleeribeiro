@@ -69,7 +69,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p>
 <img 
