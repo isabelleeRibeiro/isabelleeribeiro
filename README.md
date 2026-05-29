@@ -72,14 +72,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=isabelleeribeiro&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -89,8 +81,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 </p>
 
-<br>
-<br>
+<br/>
+<br/>
 
 ---
 
