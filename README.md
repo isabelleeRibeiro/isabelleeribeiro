@@ -69,6 +69,28 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <br/>
 <br/>
 
+<h3 align="left">GitHub Stats</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=isabelleeribeiro&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=isabelleeribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
+
+
+
 ---
 
 ### 🐍 Minhas contribuições
